@@ -8,6 +8,7 @@ import { NAV_LINKS, CLINIC } from "@/lib/data";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { BookingDialog } from "./bookingDialog";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -60,9 +61,12 @@ export function Header() {
           >
             <Phone className="size-4" /> {CLINIC.phone}
           </a>
-          <Button asChild className="hidden rounded-full gradient-primary text-primary-foreground shadow-soft hover:opacity-95 sm:inline-flex">
+          <BookingDialog>
+                  <Button className="hidden text-primary-foreground shadow-soft hover:opacity-95 sm:inline-flex">Book Appointment</Button>
+          </BookingDialog>
+          {/* <Button asChild className="h">
             <Link href="/book">Book Appointment</Link>
-          </Button>
+          </Button> */}
 
           <Sheet open={open} onOpenChange={setOpen}>
             <SheetTrigger asChild>
@@ -96,10 +100,10 @@ export function Header() {
                   </Link>
                 ))}
               </nav>
-              <div className="mt-6 space-y-2 border-t border-border pt-6">
-                <Button asChild className="w-full rounded-full gradient-primary text-primary-foreground" onClick={() => setOpen(false)}>
-                  <Link href="/book">Book Appointment</Link>
-                </Button>
+              <div className="mt-6 space-y-2 border-t border-border pt-6 px-2">
+                <BookingDialog>
+                  <Button className="w-full p-5">Book Appointment</Button>
+                </BookingDialog>
                 <a
                   href={`tel:${CLINIC.phone}`}
                   className="flex w-full items-center justify-center gap-2 rounded-full border border-border px-4 py-2 text-sm font-medium"

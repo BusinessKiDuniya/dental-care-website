@@ -37,6 +37,7 @@ import { CLINIC, STATS, TREATMENTS, WHY_US, DOCTORS, TESTIMONIALS, OFFERS, FAQS,
 import Image from "next/image";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
+import { BookingDialog } from "@/components/ui/app/bookingDialog";
 
 const ICONS = {
   Sparkles,
@@ -82,6 +83,9 @@ export default function HomePage() {
   );
 }
 
+
+
+
 function Hero() {
   return (
     <section className="relative overflow-hidden gradient-hero">
@@ -101,9 +105,11 @@ function Hero() {
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3 animate-fade-up" style={{ animationDelay: "200ms" }}>
-            <Button asChild size="lg" className="rounded-full gradient-primary text-primary-foreground shadow-glow hover:opacity-95">
-              <Link href="/book"><CalendarCheck className="mr-2 size-4" /> Book Appointment</Link>
-            </Button>
+            <BookingDialog>
+              <Button size="lg" className="rounded-full gradient-primary text-primary-foreground shadow-glow hover:opacity-95">
+                <CalendarCheck className="mr-2 size-4" /> Book Appointment
+              </Button>
+            </BookingDialog>
             <Button asChild size="lg" variant="outline" className="rounded-full border-primary/30 text-foreground hover:bg-primary/5">
               <a href={`tel:${CLINIC.phone}`}><Phone className="mr-2 size-4" /> Call Now</a>
             </Button>
@@ -148,10 +154,11 @@ function Hero() {
         </div>
       </div>
 
-      <QuickForm />
+
     </section>
   );
 }
+
 
 function QuickForm() {
   return (
@@ -306,9 +313,9 @@ function DoctorsTeaser() {
                   <span>{d.experience}+ yrs</span>
                 </div>
                 <div className="mt-4 flex gap-2">
-                  <Button asChild size="sm" className="flex-1 rounded-full bg-primary text-primary-foreground">
-                    <Link href="/book">Book</Link>
-                  </Button>
+                  <BookingDialog note={"I Want Appointment with " + d.name}>
+                    <Button className="w-max grow">Book</Button>
+                  </BookingDialog>
                   <Button asChild size="sm" variant="outline" className="rounded-full">
                     <Link href="/doctors">Profile</Link>
                   </Button>
@@ -363,9 +370,9 @@ function Offers() {
             <span className="rounded-full bg-mint/30 px-3 py-1 text-sm font-medium text-mint-foreground">Offers</span>
             <h2 className="mt-3 font-display text-3xl font-bold md:text-4xl">Premium care, transparent prices</h2>
           </div>
-          <Button asChild variant="outline" className="rounded-full">
+          {/* <Button asChild variant="outline" className="rounded-full">
             <Link href="/offers">All offers <ArrowRight className="ml-1 size-4" /></Link>
-          </Button>
+          </Button> */}
         </div>
 
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -378,9 +385,9 @@ function Offers() {
                 <span className="font-display text-3xl font-bold text-primary">{o.price}</span>
                 <span className="text-sm text-muted-foreground line-through">{o.original}</span>
               </div>
-              <Button asChild className="mt-5 w-full rounded-full bg-primary text-primary-foreground">
-                <Link href="/book">Avail this offer</Link>
-              </Button>
+              <BookingDialog note={o.title+" Offer"}>
+                <Button className="w-full mt-3">Avail this offer</Button>
+              </BookingDialog>
             </div>
           ))}
         </div>
@@ -479,11 +486,11 @@ function CTA() {
               <p className="mt-3 max-w-xl text-primary-foreground/90">Book your free consultation today. Same-day slots, EMI from 0%, and a pain-free guarantee.</p>
             </div>
             <div className="flex flex-wrap gap-3">
-              <Button asChild size="lg" className="rounded-full bg-white text-primary hover:bg-white/90">
-                <Link href="/book">
+              <BookingDialog treatment={"free-visit"}>
+                <Button size="lg" className="rounded-full bg-white text-primary hover:bg-white/90">
                   <CalendarCheck className="mr-2 size-4" /> Book free visit
-                </Link>
-              </Button>
+                </Button>
+              </BookingDialog>
               <Button asChild size="lg" variant="outline" className="rounded-full border-white/40 bg-transparent text-white hover:bg-white/10">
                 <a href={`tel:${CLINIC.phone}`}>
                   <Phone className="mr-2 size-4" /> Call now
