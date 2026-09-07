@@ -357,7 +357,7 @@ export const dentist = [
   {
     id: 2,
 
-    name: "ADVANCED DENTAL CAREs",
+    name: "ADVANCED DENTAL CARE",
     fullName: "ADVANCED DENTAL CARE",
     slug: "advanced-dental-care",
 
