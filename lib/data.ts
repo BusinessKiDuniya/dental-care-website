@@ -100,8 +100,8 @@ export const FAQS = [
 
 export const BLOGS = [
   { slug: "5-signs-you-need-rct", title: "5 signs you might need a root canal", image: "/blog-1.jpg", excerpt: "Sharp pain when you bite? A dark tooth? Here's what your symptoms could mean.", category: "Dental Tips", read: "4 min" },
-  { slug: "aligners-vs-braces", title: "Aligners vs braces — which is right for you?", image: "/blog-1.jpg", excerpt: "We break down cost, comfort, speed and lifestyle fit for both options.", category: "Orthodontics", read: "6 min" },
-  { slug: "kids-first-dentist-visit", title: "Your child's first dentist visit: the parent guide", image: "/blog-1.jpg", excerpt: "From age to expectations — how to make the first visit a happy one.", category: "Kids Dentistry", read: "5 min" },
+  { slug: "aligners-vs-braces", title: "Aligners vs braces — which is right for you?", image: "/aligner-vs-braces.jpeg", excerpt: "We break down cost, comfort, speed and lifestyle fit for both options.", category: "Orthodontics", read: "6 min" },
+  { slug: "kids-first-dentist-visit", title: "Your child's first dentist visit: the parent guide", image: "/first-visit.jpeg", excerpt: "From age to expectations — how to make the first visit a happy one.", category: "Kids Dentistry", read: "5 min" },
   { slug: "implants-explained", title: "Dental implants, explained simply", image: "/blog-1.jpg", excerpt: "What they are, how long they last, and why they feel like real teeth.", category: "Implants", read: "7 min" },
   { slug: "veneers-vs-whitening", title: "Veneers vs whitening — what really lasts?", image: "/blog-1.jpg", excerpt: "The cosmetic dentistry decision most people get wrong, and how to choose.", category: "Cosmetic Dentistry", read: "5 min" },
   { slug: "gum-bleeding-causes", title: "Why your gums bleed — and when to worry", image: "/blog-1.jpg", excerpt: "Occasional bleeding is normal; chronic bleeding isn't. Here's the line.", category: "Dental Tips", read: "4 min" },
