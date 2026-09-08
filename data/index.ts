@@ -852,6 +852,7 @@ const fromGMB = [
     },
   },
 
+  // 8 Sep
   {
     id: 5,
 
@@ -1214,6 +1215,629 @@ const fromGMB = [
       ],
     },
   },
+
+  {
+    id: 12,
+
+    name: "RADIANT DENTAL CLINIC",
+    fullName: "RADIANT DENTAL CLINIC",
+    slug: "radiant-dental-clinic-burari",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Professional and affordable dental care in Mukherjee Nagar, Burari.",
+
+    description:
+      "RADIANT DENTAL CLINIC is a dental clinic located in Main Market, Mukherjee Nagar, Bengali Colony, Sant Nagar, Burari, New Delhi. Patients praise the clinic for affordable treatment, professional doctors, helpful nursing staff and clear explanations of dental procedures.",
+
+    rating: 5.0,
+    reviewCount: 42,
+
+    phone: "08448672679",
+    whatsapp: "08448672679",
+
+    address:
+      "Main Market, Mukherjee Nagar, Bengali Colony, Sant Nagar, Burari, New Delhi, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Affordable treatment",
+      "Professional doctor",
+      "Helpful nursing staff",
+      "Clear treatment explanations",
+      "Dental care",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Comfort-focused root canal treatment for damaged or infected teeth.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb: "Dental implant solutions for replacing missing teeth.",
+      },
+      {
+        name: "Orthodontic Treatment",
+        slug: "orthodontic-treatment",
+        icon: "AlignJustify",
+        blurb: "Orthodontic care for improving tooth alignment and smile.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Professional extraction treatment with patient comfort in mind.",
+      },
+      {
+        name: "Teeth Cleaning",
+        slug: "teeth-cleaning",
+        icon: "Sparkles",
+        blurb: "Professional cleaning and polishing for healthier teeth.",
+      },
+    ],
+
+    reviewSummary: [
+      "Good treatment at affordable price",
+      "Professional doctor",
+      "Good nursing staff",
+      "Doctor explains treatment clearly",
+    ],
+
+    testimonials: [
+      {
+        name: "Manjo",
+        rating: 5,
+        city: "Delhi",
+        text: "Good treatment at affordable price.",
+      },
+      {
+        name: "Kajal",
+        rating: 5,
+        city: "Delhi",
+        text: "A well professional doctor and the nursing staff is also good.",
+      },
+      {
+        name: "Sahil",
+        rating: 5,
+        city: "Delhi",
+        text: "I went for treatment a second time. The doctor explained everything very clearly.",
+      },
+    ],
+
+    reviewTags: [],
+
+    features: [
+      "Professional doctor",
+      "Good nursing staff",
+      "Affordable treatment",
+      "Clear treatment explanations",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is RADIANT DENTAL CLINIC located?",
+        a: "RADIANT DENTAL CLINIC is located at Main Market, Mukherjee Nagar, Bengali Colony, Sant Nagar, Burari, New Delhi, Delhi - 110084.",
+      },
+      {
+        q: "What do patients say about RADIANT DENTAL CLINIC?",
+        a: "Patients give the clinic a 5.0 rating from 42 reviews and mention affordable treatment, professional doctors, good nursing staff and clear explanations of treatment.",
+      },
+      {
+        q: "Does the clinic provide affordable dental treatment?",
+        a: "Yes. Patient reviews specifically mention good treatment at an affordable price.",
+      },
+    ],
+
+    seo: {
+      title: "RADIANT DENTAL CLINIC | Burari, Delhi",
+      description:
+        "RADIANT DENTAL CLINIC in Burari provides professional and affordable dental care in Mukherjee Nagar, Bengali Colony, Sant Nagar, Delhi.",
+      keywords: [
+        "Radiant Dental Clinic Burari",
+        "dentist in Burari",
+        "dental clinic Burari",
+        "dentist Mukherjee Nagar",
+        "dental clinic Sant Nagar",
+        "dentist Bengali Colony",
+      ],
+    },
+  },
+
+  {
+    id: 13,
+
+    name: "Dr. Ravindra's Dental Clinic",
+    fullName: "Dr. Ravindra's Dental Clinic",
+    slug: "dr-ravindras-dental-clinic-burari",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Comprehensive dental care with modern equipment in Sant Nagar, Burari.",
+
+    description:
+      "Dr. Ravindra's Dental Clinic is a dental clinic located near Hanuman Chowk in Prem Nagar, Sant Nagar, Burari, New Delhi. The clinic offers a wide range of dental services including teeth whitening, dental implants, dentures and bridges, extractions, fillings, root canals, teeth cleaning, veneers and crowns, oral surgery and emergency dental care. Patients praise the clinic for its professional dental care, excellent service and modern equipment.",
+
+    rating: 5.0,
+    reviewCount: 44,
+
+    phone: "07906065409",
+    whatsapp: "07906065409",
+
+    address:
+      "Shop No-03, Gali Number 116, near Hanuman Chowk, Prem Nagar, Sant Nagar, Burari, New Delhi, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Modern dental equipment",
+      "Dental implants",
+      "Root canal treatment",
+      "Wisdom tooth extraction",
+      "Emergency dental care",
+      "Cosmetic dental procedures",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Ravindra",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb: "Professional teeth whitening treatment for a brighter smile.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb: "Dental implant solutions for replacing missing teeth.",
+      },
+      {
+        name: "Dentures & Bridges",
+        slug: "dentures-and-bridges",
+        icon: "Smile",
+        blurb:
+          "Tooth replacement options including dentures and dental bridges.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Professional tooth extraction treatment, including wisdom tooth extraction.",
+      },
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb: "Root canal treatment for damaged or infected teeth.",
+      },
+      {
+        name: "Teeth Cleaning",
+        slug: "teeth-cleaning",
+        icon: "Sparkles",
+        blurb: "Professional teeth cleaning to support good oral hygiene.",
+      },
+      {
+        name: "Dental Fillings",
+        slug: "dental-fillings",
+        icon: "Circle",
+        blurb:
+          "Dental fillings and sealants for treating and protecting teeth.",
+      },
+      {
+        name: "Veneers & Crowns",
+        slug: "veneers-and-crowns",
+        icon: "Crown",
+        blurb:
+          "Restorative and cosmetic dental solutions using veneers and crowns.",
+      },
+      {
+        name: "Oral Surgery",
+        slug: "oral-surgery",
+        icon: "Activity",
+        blurb:
+          "Dental surgical procedures provided as part of comprehensive oral care.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic procedures including teeth reshaping, bonding and veneers.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended dental doctor",
+      "Excellent service",
+      "Modern dental equipment",
+      "Wisdom tooth extraction",
+    ],
+
+    testimonials: [
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommend to go there, best dental doctor.",
+      },
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Went for wisdom tooth extraction.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent service and new equipment.",
+      },
+    ],
+
+    reviewTags: [],
+
+    features: [
+      "Modern dental equipment",
+      "Professional dental care",
+      "Dental implants",
+      "Emergency care",
+      "Cosmetic procedures",
+      "Oral surgery",
+    ],
+
+    images: [],
+
+    faq: [
+      {
+        q: "Where is Dr. Ravindra's Dental Clinic located?",
+        a: "Dr. Ravindra's Dental Clinic is located at Shop No-03, Gali Number 116, near Hanuman Chowk, Prem Nagar, Sant Nagar, Burari, New Delhi, Delhi - 110084.",
+      },
+      {
+        q: "What services does Dr. Ravindra's Dental Clinic provide?",
+        a: "The clinic provides a wide range of services including teeth whitening, dental implants, dentures and bridges, extractions, fillings and sealants, root canals, teeth cleaning, veneers and crowns, oral surgery, cosmetic procedures, paediatric dentistry, emergency care and X-rays.",
+      },
+      {
+        q: "Does the clinic provide wisdom tooth extraction?",
+        a: "Yes. Wisdom tooth extraction is among the treatments mentioned by patients in their reviews.",
+      },
+      {
+        q: "Does Dr. Ravindra's Dental Clinic have modern equipment?",
+        a: "Yes. A patient review specifically praises the clinic for its excellent service and new equipment.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Ravindra's Dental Clinic | Sant Nagar, Burari",
+      description:
+        "Dr. Ravindra's Dental Clinic in Sant Nagar, Burari offers dental implants, root canals, teeth whitening, extractions, cosmetic dentistry and comprehensive dental care.",
+      keywords: [
+        "Dr Ravindra Dental Clinic Burari",
+        "dentist in Burari",
+        "dental clinic Burari",
+        "dentist Sant Nagar",
+        "dentist Prem Nagar Burari",
+        "dental implants Burari",
+        "root canal Burari",
+        "wisdom tooth extraction Burari",
+        "teeth whitening Burari",
+      ],
+    },
+  },
+
+  {
+    id: 14,
+
+    name: "Rvs Dental Clinic Burari",
+    fullName: "Rvs Dental Clinic Burari: Dentist in Burari",
+    slug: "rvs-dental-clinic-burari-dentist",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Comprehensive dental, orthodontic and oral care in Sant Nagar, Burari.",
+
+    description:
+      "Rvs Dental Clinic Burari is a dental clinic located on 25 Foota Road near Shani Mandir in Jharoda, Burari, Delhi. The clinic provides a comprehensive range of dental services including dental implants, root canals, teeth cleaning, extractions, orthodontic treatment, cosmetic dentistry, pediatric dental care, emergency care, laser dentistry and oral surgery. Patients praise the clinic for quality dental care, professional expertise and good patient behavior.",
+
+    rating: 5.0,
+    reviewCount: 7,
+
+    phone: "07428565018",
+    whatsapp: "07428565018",
+
+    address:
+      "3529 Sant Nagar, 25 Foota Road, Pusta Rd, near Shani Mandir, Jharoda, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "https://rvshealthcare.in",
+
+    openingHours: {
+      monday: "Open 24 hours",
+      tuesday: "Open 24 hours",
+      wednesday: "Open 24 hours",
+      thursday: "Open 24 hours",
+      friday: "Open 24 hours",
+      saturday: "Open 24 hours",
+      sunday: "Open 24 hours",
+    },
+
+    highlights: [
+      "Open 24 hours",
+      "Dental implants",
+      "Root canal treatment",
+      "Orthodontic treatment",
+      "Pediatric dental care",
+      "Emergency dental care",
+      "Laser dentistry",
+      "Comprehensive oral care",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant consultation, placement, restoration and maintenance for replacing missing teeth.",
+      },
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Comprehensive root canal care including specialist procedures and retreatment.",
+      },
+      {
+        name: "Teeth Cleaning & Scaling",
+        slug: "teeth-cleaning-and-scaling",
+        icon: "Sparkles",
+        blurb:
+          "Professional cleaning, scaling and polishing for maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Tooth extraction services including simple and wisdom tooth extraction.",
+      },
+      {
+        name: "Orthodontic Treatment",
+        slug: "orthodontic-treatment",
+        icon: "AlignJustify",
+        blurb:
+          "Orthodontic assessment, braces, clear aligners and smile correction services.",
+      },
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth whitening and stain removal treatments for a brighter smile.",
+      },
+      {
+        name: "Dental Fillings",
+        slug: "dental-fillings",
+        icon: "Circle",
+        blurb:
+          "Dental cavity fillings, bonding and sealant treatments for damaged teeth.",
+      },
+      {
+        name: "Veneers & Crowns",
+        slug: "veneers-and-crowns",
+        icon: "Crown",
+        blurb:
+          "Cosmetic and restorative dental treatments using veneers, crowns and bridges.",
+      },
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Child-friendly preventive, restorative and emergency dental care for children.",
+      },
+      {
+        name: "Laser Dentistry",
+        slug: "laser-dentistry",
+        icon: "Zap",
+        blurb: "Laser-based dental and gum care including laser gum therapy.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Emergency dental assistance for tooth pain, swelling, infections and other urgent concerns.",
+      },
+      {
+        name: "Oral Surgery",
+        slug: "oral-surgery",
+        icon: "Activity",
+        blurb:
+          "Oral surgical procedures and consultations as part of comprehensive dental care.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Open 24 hours",
+      "Quality dental care",
+      "Professional expertise",
+      "Modern dental facility",
+      "Emergency dental care",
+      "Pediatric dental care",
+      "Orthodontic care",
+      "Dental implant services",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Rvs Dental Clinic Burari located?",
+        a: "Rvs Dental Clinic Burari is located at 3529 Sant Nagar, 25 Foota Road, Pusta Road, near Shani Mandir, Jharoda, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What dental services does Rvs Dental Clinic Burari provide?",
+        a: "The clinic provides dental implants, root canal treatment, teeth cleaning and scaling, tooth extraction, orthodontic treatment, teeth whitening, fillings, veneers and crowns, pediatric dentistry, laser dentistry, oral surgery and emergency dental care.",
+      },
+      {
+        q: "Is Rvs Dental Clinic Burari open 24 hours?",
+        a: "According to the provided business information, Rvs Dental Clinic Burari is open 24 hours.",
+      },
+      {
+        q: "Does Rvs Dental Clinic Burari provide dental implants?",
+        a: "Yes. Dental implant consultation, placement, restoration and maintenance are among the services associated with the clinic.",
+      },
+      {
+        q: "Does the clinic provide treatment for children?",
+        a: "Yes. The clinic offers pediatric dental consultations, preventive care, cavity treatment, dental sealants, fluoride treatments and other child-focused dental services.",
+      },
+    ],
+
+    seo: {
+      title: "Rvs Dental Clinic Burari | Dentist in Burari, Delhi",
+      description:
+        "Rvs Dental Clinic Burari offers dental implants, root canals, teeth cleaning, orthodontics, pediatric dentistry, emergency dental care and comprehensive oral treatment in Burari, Delhi.",
+      keywords: [
+        "Rvs Dental Clinic Burari",
+        "Rvs Dental Clinic",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "dentist in Sant Nagar",
+        "dentist in Sant Nagar Burari",
+        "best dentist in Burari",
+        "dental implants Burari",
+        "root canal Burari",
+        "orthodontist Burari",
+        "pediatric dentist Burari",
+        "dental clinic Sant Nagar",
+        "dentist near Sant Nagar",
+      ],
+    },
+  },
 ];
 
 const fromInsta = [
@@ -1493,7 +2117,7 @@ const fromInsta = [
 
     website: null,
 
-   openingHours: {
+    openingHours: {
       monday: "9:00 AM - 9:00 PM",
       tuesday: "9:00 AM - 9:00 PM",
       wednesday: "9:00 AM - 9:00 PM",
@@ -1625,13 +2249,13 @@ const fromInsta = [
     website: "https://dentarcs.in",
 
     openingHours: {
-      monday: null,
-      tuesday: null,
-      wednesday: null,
-      thursday: null,
-      friday: null,
-      saturday: null,
-      sunday: null,
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
     },
 
     highlights: [
@@ -1715,7 +2339,12 @@ const fromInsta = [
       },
     ],
 
-    reviewTags: [],
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
 
     features: [
       "Multi-speciality dental clinic",
@@ -1802,13 +2431,13 @@ const fromInsta = [
     website: null,
 
     openingHours: {
-      monday: null,
-      tuesday: null,
-      wednesday: null,
-      thursday: null,
-      friday: null,
-      saturday: null,
-      sunday: null,
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
     },
 
     highlights: [
@@ -1913,7 +2542,12 @@ const fromInsta = [
       },
     ],
 
-    reviewTags: [],
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
 
     features: [
       "Orthodontist",
@@ -2000,13 +2634,13 @@ const fromInsta = [
     website: null,
 
     openingHours: {
-      monday: null,
-      tuesday: null,
-      wednesday: null,
-      thursday: null,
-      friday: null,
-      saturday: null,
-      sunday: null,
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
     },
 
     highlights: [
@@ -2088,7 +2722,12 @@ const fromInsta = [
       },
     ],
 
-    reviewTags: [],
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
 
     features: [
       "Dental & health clinic",
@@ -2133,6 +2772,1064 @@ const fromInsta = [
       ],
     },
   },
+
+  // 8 Sep
+
+  {
+    id: 15,
+
+    name: "Dr. Anjali Lathwal",
+    fullName: "Dr. Anjali Lathwal | Dentist in Faridabad, Delhi-NCR",
+    slug: "dr-anjali-lathwal-dentist-faridabad",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Prosthodontist and smile design expert helping you achieve a confident smile.",
+
+    description:
+      "Dr. Anjali Lathwal is a Prosthodontist and dentist based in Faridabad, Delhi-NCR. She focuses on smile enhancement and restorative dentistry, with services and expertise including veneers, dental implants, Invisalign and full mouth rehabilitation. She also specializes in smile design.",
+
+    rating: 4.5,
+    reviewCount: 20,
+
+    phone: "9876543210",
+    whatsapp: "",
+
+    address: "",
+    city: "Faridabad",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Prosthodontist",
+      "Smile Design Expert",
+      "Veneers",
+      "Dental Implants",
+      "Invisalign",
+      "Full Mouth Rehabilitation",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Anjali Lathwal",
+        specialty: "Prosthodontist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Veneers",
+        slug: "dental-veneers",
+        icon: "Smile",
+        blurb:
+          "Cosmetic veneer treatment for enhancing the appearance of teeth and creating a confident smile.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant solutions for replacing missing teeth and restoring smile function.",
+      },
+      {
+        name: "Invisalign",
+        slug: "invisalign",
+        icon: "AlignJustify",
+        blurb:
+          "Clear aligner treatment for improving tooth alignment and creating a more confident smile.",
+      },
+      {
+        name: "Full Mouth Rehabilitation",
+        slug: "full-mouth-rehabilitation",
+        icon: "Smile",
+        blurb:
+          "Comprehensive restorative dental treatment designed to improve oral function and smile aesthetics.",
+      },
+      {
+        name: "Smile Design",
+        slug: "smile-design",
+        icon: "Sparkles",
+        blurb:
+          "Personalized smile design focused on creating a balanced and confident smile.",
+      },
+    ],
+
+    reviewSummary: [
+      "Effective treatment",
+      "Experienced doctors",
+      "Caring staff",
+      "Quality dental care",
+    ],
+
+    testimonials: [
+      {
+        name: "Abhinav",
+        rating: 5,
+        city: "Delhi",
+        text: "Effective treatment with experienced doctor and good and caring staffs.",
+      },
+      {
+        name: "Jayshree Jaiswal",
+        rating: 5,
+        city: "Delhi",
+        text: "I would highly recommend this clinic for anyone looking for quality dental care!",
+      },
+      {
+        name: "Mazhar Husain",
+        rating: 5,
+        city: "Delhi",
+        text: "Great work done by Dr. Shivani Gupta and her staff.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Prosthodontic care",
+      "Smile design",
+      "Veneers",
+      "Dental implants",
+      "Invisalign",
+      "Full mouth rehabilitation",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Dr. Anjali Lathwal?",
+        a: "Dr. Anjali Lathwal is a Prosthodontist and dentist based in Faridabad, Delhi-NCR, specializing in smile design and restorative dental care.",
+      },
+      {
+        q: "What treatments does Dr. Anjali Lathwal provide?",
+        a: "Her listed areas of treatment include veneers, dental implants, Invisalign and full mouth rehabilitation.",
+      },
+      {
+        q: "Does Dr. Anjali Lathwal specialize in smile design?",
+        a: "Yes. She describes herself as a Smile Design expert and focuses on helping patients achieve a confident smile.",
+      },
+      {
+        q: "Where is Dr. Anjali Lathwal located?",
+        a: "Dr. Anjali Lathwal is listed as a dentist in Faridabad, within the Delhi-NCR region.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Anjali Lathwal | Prosthodontist & Dentist in Faridabad",
+      description:
+        "Dr. Anjali Lathwal is a Prosthodontist and smile design expert in Faridabad, Delhi-NCR, offering veneers, dental implants, Invisalign and full mouth rehabilitation.",
+      keywords: [
+        "Dr Anjali Lathwal",
+        "Dr Anjali Lathwal dentist",
+        "dentist in Faridabad",
+        "prosthodontist in Faridabad",
+        "dentist Delhi NCR",
+        "prosthodontist Delhi NCR",
+        "smile design Faridabad",
+        "dental veneers Faridabad",
+        "dental implants Faridabad",
+        "Invisalign Faridabad",
+        "full mouth rehabilitation Faridabad",
+      ],
+    },
+  },
+
+  {
+    id: 16,
+
+    name: "Dr. Sudhir Bhalla",
+    fullName: "Dr. Sudhir Bhalla | Dentist in Mayur Vihar, Delhi",
+    slug: "dr-sudhir-bhalla-dentist-mayur-vihar",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Experienced dentist providing comprehensive dental care in Mayur Vihar, Delhi.",
+
+    description:
+      "Dr. Sudhir Bhalla is a BDS dentist with 31 years of experience, associated with S B Dental Clinic in Mayur Vihar Phase III, Delhi. His areas of interest include gum treatment and root canal treatment. He provides professional dental care with a focus on maintaining and restoring oral health.",
+
+    rating: 4.5,
+    reviewCount: 40,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "B-1258, G. D. Colony, Mayur Vihar Phase III, Delhi, 110096",
+
+    city: "Delhi",
+    area: "Mayur Vihar Phase III",
+    pincode: "110096",
+
+    mapCode: "",
+
+    website: "https://drsudhirbhalla.getmy.clinic/",
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "31 years of experience",
+      "BDS dentist",
+      "Root canal treatment",
+      "Gum treatment",
+      "General dental care",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Sudhir Bhalla",
+        specialty: "Dentist",
+        qualification: "BDS",
+        experience: 31,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Root canal treatment for treating infected or damaged teeth and preserving natural teeth.",
+      },
+      {
+        name: "Gum Treatment",
+        slug: "gum-treatment",
+        icon: "HeartPulse",
+        blurb:
+          "Dental care focused on maintaining healthy gums and managing common gum-related problems.",
+      },
+      {
+        name: "Dental Check-up",
+        slug: "dental-checkup",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations for assessing overall oral health and identifying dental problems.",
+      },
+      {
+        name: "Teeth Cleaning",
+        slug: "teeth-cleaning",
+        icon: "Sparkles",
+        blurb:
+          "Professional dental cleaning to help maintain oral hygiene and healthy teeth and gums.",
+      },
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "Comprehensive dental care for maintaining, restoring and improving oral health.",
+      },
+    ],
+
+    reviewSummary: [
+      "Effective treatment",
+      "Experienced doctors",
+      "Caring staff",
+      "Quality dental care",
+    ],
+
+    testimonials: [
+      {
+        name: "Abhinav",
+        rating: 5,
+        city: "Delhi",
+        text: "Effective treatment with experienced doctor and good and caring staffs.",
+      },
+      {
+        name: "Jayshree Jaiswal",
+        rating: 5,
+        city: "Delhi",
+        text: "I would highly recommend this clinic for anyone looking for quality dental care!",
+      },
+      {
+        name: "Mazhar Husain",
+        rating: 5,
+        city: "Delhi",
+        text: "Great work done by Dr. Shivani Gupta and her staff.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "31 years of dental experience",
+      "BDS qualified dentist",
+      "Root canal care",
+      "Gum treatment",
+      "Comprehensive dental care",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Dr. Sudhir Bhalla?",
+        a: "Dr. Sudhir Bhalla is a BDS-qualified dentist with 31 years of experience in dental care.",
+      },
+      {
+        q: "Where is Dr. Sudhir Bhalla's clinic located?",
+        a: "Dr. Sudhir Bhalla is associated with S B Dental Clinic at B-1258, G. D. Colony, Mayur Vihar Phase III, Delhi - 110096.",
+      },
+      {
+        q: "What treatments does Dr. Sudhir Bhalla specialize in?",
+        a: "His listed areas of interest include gum treatment and root canal treatment.",
+      },
+      {
+        q: "How much experience does Dr. Sudhir Bhalla have?",
+        a: "Dr. Sudhir Bhalla is listed as having 31 years of experience as a dentist.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Sudhir Bhalla | Dentist in Mayur Vihar, Delhi",
+      description:
+        "Dr. Sudhir Bhalla is a BDS dentist with 31 years of experience in Mayur Vihar Phase III, Delhi, providing root canal, gum treatment and comprehensive dental care.",
+      keywords: [
+        "Dr Sudhir Bhalla",
+        "Dr Sudhir Bhalla dentist",
+        "dentist in Mayur Vihar",
+        "dentist Mayur Vihar Phase 3",
+        "dentist in Delhi",
+        "BDS dentist Mayur Vihar",
+        "root canal treatment Mayur Vihar",
+        "gum treatment Mayur Vihar",
+        "S B Dental Clinic",
+        "S B Dental Clinic Mayur Vihar",
+      ],
+    },
+  },
+
+  {
+    id: 17,
+
+    name: "Smile Story - The Complete Dental Care",
+    fullName: "Smile Story - The Complete Dental Care",
+    slug: "smile-story-the-complete-dental-care-shastri-nagar",
+
+    category: "Dental Clinic",
+
+    tagline: "Complete and affordable dental care in Shastri Nagar, Delhi.",
+
+    description:
+      "Smile Story - The Complete Dental Care is a dental clinic located in Nimri Village, Shastri Nagar, Delhi. The clinic provides comprehensive dental services including root canal treatment, tooth extraction, dental implants, braces, clear aligners, cosmetic dentistry, gum treatment, dentures, crowns and bridges, pediatric dental care and emergency dental care. Patients praise the clinic for affordable RCT treatment, painless tooth extraction, cleanliness, friendly staff and professional care.",
+
+    rating: 5.0,
+    reviewCount: 66,
+
+    phone: "",
+    whatsapp: "",
+
+    address:
+      "WZ - 09, Nimri Village, Block A, Block D, Shastri Nagar, Delhi, 110052",
+
+    city: "Delhi",
+    area: "Shastri Nagar",
+    pincode: "110052",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Root canal treatment",
+      "Painless tooth extraction",
+      "Dental implants",
+      "Braces and clear aligners",
+      "Affordable treatment",
+      "Clean and hygienic clinic",
+      "Friendly staff",
+      "Professional dental care",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Comfort-focused root canal treatment for treating infected or damaged teeth.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Professional tooth extraction with a focus on comfortable and painless treatment.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant solutions including implant crowns and overdentures for replacing missing teeth.",
+      },
+      {
+        name: "Braces",
+        slug: "braces",
+        icon: "AlignJustify",
+        blurb:
+          "Orthodontic braces treatment for improving tooth alignment and bite.",
+      },
+      {
+        name: "Clear Aligners",
+        slug: "clear-aligners",
+        icon: "AlignJustify",
+        blurb:
+          "Clear aligner treatment for discreet orthodontic tooth alignment.",
+      },
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb: "Professional teeth whitening treatment for a brighter smile.",
+      },
+      {
+        name: "Gum Treatment",
+        slug: "gum-treatment",
+        icon: "HeartPulse",
+        blurb:
+          "Dental care for maintaining healthy gums and treating common gum problems.",
+      },
+      {
+        name: "Cavity Treatment",
+        slug: "cavity-treatment",
+        icon: "Circle",
+        blurb:
+          "Cavity treatment including composite fillings and preventive dental care.",
+      },
+      {
+        name: "Crowns & Bridges",
+        slug: "crowns-and-bridges",
+        icon: "Crown",
+        blurb:
+          "Restorative dental treatment including caps, crowns and bridges.",
+      },
+      {
+        name: "Dentures & Prosthesis",
+        slug: "dentures-and-prosthesis",
+        icon: "Smile",
+        blurb:
+          "Tooth replacement solutions including dentures, prosthesis and overdentures.",
+      },
+      {
+        name: "Wisdom Tooth Removal",
+        slug: "wisdom-tooth-removal",
+        icon: "Scissors",
+        blurb: "Surgical and routine removal of problematic wisdom teeth.",
+      },
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Dental care for children including preventive and restorative treatments.",
+      },
+    ],
+
+    reviewSummary: [
+      "Best place for RCT treatment",
+      "Affordable treatment",
+      "Painless tooth extraction",
+      "Clean and hygienic clinic",
+      "Friendly staff",
+      "Professional care",
+    ],
+
+    testimonials: [
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Best place for RCT treatment, very affordable price.",
+      },
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Best place for tooth extraction. They give painless treatment.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Clean and hygienic clinic, friendly staff and very professional care.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Complete dental care",
+      "Affordable treatment",
+      "Painless dental treatment",
+      "Clean and hygienic clinic",
+      "Friendly staff",
+      "Professional care",
+      "Orthodontic treatment",
+      "Dental implant services",
+      "Pediatric dental care",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Smile Story - The Complete Dental Care located?",
+        a: "Smile Story - The Complete Dental Care is located at WZ - 09, Nimri Village, Block A, Block D, Shastri Nagar, Delhi - 110052.",
+      },
+      {
+        q: "What treatments does Smile Story - The Complete Dental Care provide?",
+        a: "The clinic provides root canal treatment, tooth extraction, dental implants, braces, clear aligners, teeth whitening, gum treatment, cavity treatment, crowns and bridges, dentures, wisdom tooth removal, pediatric dentistry and other comprehensive dental services.",
+      },
+      {
+        q: "Does Smile Story provide root canal treatment?",
+        a: "Yes. Root canal treatment is one of the clinic's listed services, and patients specifically praise the clinic for RCT treatment and affordable pricing.",
+      },
+      {
+        q: "Does the clinic provide painless tooth extraction?",
+        a: "Patients specifically mention receiving painless tooth extraction treatment at the clinic.",
+      },
+      {
+        q: "Does Smile Story provide braces and clear aligners?",
+        a: "Yes. Braces, clear aligners and other orthodontic treatments are among the services listed for the clinic.",
+      },
+      {
+        q: "Does the clinic provide dental implants?",
+        a: "Yes. Dental implants, dental implant crowns and overdentures are among the listed services.",
+      },
+    ],
+
+    seo: {
+      title: "Smile Story - The Complete Dental Care | Shastri Nagar",
+      description:
+        "Smile Story - The Complete Dental Care in Shastri Nagar, Delhi offers RCT, painless tooth extraction, dental implants, braces, clear aligners, dentures, cosmetic dentistry and complete dental care.",
+      keywords: [
+        "Smile Story Dental Clinic",
+        "Smile Story The Complete Dental Care",
+        "dentist in Shastri Nagar",
+        "dental clinic Shastri Nagar",
+        "dentist Shastri Nagar Delhi",
+        "RCT Shastri Nagar",
+        "root canal treatment Shastri Nagar",
+        "tooth extraction Shastri Nagar",
+        "dental implants Shastri Nagar",
+        "braces Shastri Nagar",
+        "clear aligners Shastri Nagar",
+        "pediatric dentist Shastri Nagar",
+        "best dentist in Shastri Nagar",
+      ],
+    },
+  },
+
+  {
+    id: 18,
+
+    name: "SK Dental Care - Aesthetic Clinic",
+    fullName:
+      "SK Dental Care- Aesthetic Clinic | Best Dental Clinic in Delhi | Best Dental Clinic in Rohini | Best RCT | Best Implant in Rohini",
+    slug: "sk-dental-care-aesthetic-clinic-rohini",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Advanced dental and aesthetic care with painless RCT, implants and smile transformation in Rohini.",
+
+    description:
+      "SK Dental Care - Aesthetic Clinic is a dental and aesthetic clinic located near Madhuban Chowk in Sector 8, Rohini, New Delhi. The clinic provides comprehensive dental care including single-visit root canal treatment, pain-free RCT, dental implants, aesthetic dental fillings, dentures, tooth repair, pediatric dentistry and cosmetic smile treatments. The clinic also offers aesthetic and skin-care services such as Hydrafacial, chemical peels, skin boosters and eyelash treatments.",
+
+    rating: 4.9,
+    reviewCount: 222,
+
+    phone: "08955997107",
+    whatsapp: "",
+
+    address:
+      "Shop No. 16,17, near Madhuban Chowk, Pocket B-5, Sector 8B, Sector 8, Rohini, New Delhi, Delhi, 110085",
+
+    city: "Delhi",
+    area: "Rohini",
+    pincode: "110085",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Single-visit root canal treatment",
+      "Painless root canal treatment",
+      "Dental implants",
+      "Aesthetic dentistry",
+      "Smile transformation",
+      "Pediatric dentistry",
+      "Cosmetic dental fillings",
+      "Complete denture services",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Single Visit Root Canal Treatment",
+        slug: "single-visit-root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Advanced single-visit root canal treatment designed to complete RCT efficiently and comfortably.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant treatment and restoration for replacing missing teeth.",
+      },
+      {
+        name: "Aesthetic Dental Fillings",
+        slug: "aesthetic-dental-fillings",
+        icon: "Circle",
+        blurb:
+          "Tooth-colored aesthetic fillings for restoring damaged or decayed teeth.",
+      },
+      {
+        name: "Tooth Repair",
+        slug: "tooth-repair",
+        icon: "Smile",
+        blurb:
+          "Restorative dental treatment for repairing damaged teeth and improving function.",
+      },
+      {
+        name: "Complete Dentures",
+        slug: "complete-dentures",
+        icon: "Smile",
+        blurb:
+          "Complete denture solutions for restoring missing teeth and oral function.",
+      },
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Gentle dental care for children with a focus on comfortable pediatric treatment.",
+      },
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb:
+          "Cosmetic teeth whitening for improving tooth brightness and smile appearance.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Sparkles",
+        blurb:
+          "Aesthetic dental procedures designed to enhance smile appearance and confidence.",
+      },
+      {
+        name: "Failed Root Canal Correction",
+        slug: "failed-root-canal-correction",
+        icon: "Activity",
+        blurb:
+          "Corrective treatment for teeth requiring management after an unsuccessful root canal.",
+      },
+      {
+        name: "Dental Check-up",
+        slug: "dental-checkup",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for maintaining overall oral health.",
+      },
+      {
+        name: "Gum Treatment",
+        slug: "gum-treatment",
+        icon: "HeartPulse",
+        blurb:
+          "Dental and gum care for maintaining healthy gums and addressing gum-related concerns.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Dental care for urgent tooth pain, dental problems and other emergencies.",
+      },
+    ],
+
+    reviewSummary: [
+      "Overwhelmed by the treatment and service",
+      "Nice experience with the staff",
+      "Professional dental care",
+      "Advanced dental treatments",
+    ],
+
+    testimonials: [
+      {
+        name: "Shanu Bhatia",
+        rating: 5,
+        city: "Delhi",
+        text: "Overwhelmed by the treatment and service provided by doctors.",
+      },
+      {
+        name: "Ankit Anand",
+        rating: 5,
+        city: "Delhi",
+        text: "Had an experience involving the dental treatment and materials used during the procedure.",
+      },
+      {
+        name: "Angelin Soreng",
+        rating: 5,
+        city: "Delhi",
+        text: "It was a nice experience with the staff.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Aesthetic dental clinic",
+      "Single-visit RCT",
+      "Dental implants",
+      "Pediatric dentistry",
+      "Smile transformation",
+      "Aesthetic dental fillings",
+      "Complete dentures",
+      "Modern dental care",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is SK Dental Care located?",
+        a: "SK Dental Care - Aesthetic Clinic is located at Shop No. 16,17, near Madhuban Chowk, Pocket B-5, Sector 8B, Sector 8, Rohini, New Delhi, Delhi - 110085.",
+      },
+      {
+        q: "What dental treatments does SK Dental Care provide?",
+        a: "The clinic provides root canal treatment, dental implants, tooth repair, dental fillings, dentures, cosmetic dentistry, teeth whitening, pediatric dentistry, gum treatment, emergency dental care and other dental services.",
+      },
+      {
+        q: "Does SK Dental Care provide single-visit RCT?",
+        a: "Yes. Single-visit root canal treatment and pain-free RCT are specifically promoted among the clinic's dental services.",
+      },
+      {
+        q: "Does SK Dental Care provide dental implants?",
+        a: "Yes. Dental implants and implant-related treatments are among the services offered by the clinic.",
+      },
+      {
+        q: "Does SK Dental Care provide pediatric dental treatment?",
+        a: "Yes. The clinic promotes pediatric dental care and gentle dental treatment for children.",
+      },
+      {
+        q: "Does SK Dental Care offer aesthetic treatments?",
+        a: "Yes. In addition to aesthetic dentistry, the clinic lists skin and aesthetic services including Hydrafacial, chemical peels, skin boosters and eyelash lift and tint.",
+      },
+    ],
+
+    seo: {
+      title: "SK Dental Care - Aesthetic Clinic | Dentist in Rohini, Delhi",
+      description:
+        "SK Dental Care in Rohini, Delhi offers painless single-visit RCT, dental implants, aesthetic fillings, dentures, pediatric dentistry, smile treatments and comprehensive dental care.",
+      keywords: [
+        "SK Dental Care Rohini",
+        "SK Dental Care Aesthetic Clinic",
+        "dentist in Rohini",
+        "best dentist in Rohini",
+        "dental clinic in Rohini",
+        "best dental clinic in Rohini",
+        "best RCT in Rohini",
+        "root canal treatment Rohini",
+        "single visit RCT Rohini",
+        "painless RCT Rohini",
+        "dental implants Rohini",
+        "best implant in Rohini",
+        "pediatric dentist Rohini",
+        "cosmetic dentist Rohini",
+        "aesthetic dental clinic Rohini",
+        "dentist near Madhuban Chowk",
+        "dental clinic Sector 8 Rohini",
+      ],
+    },
+  },
+
+  {
+    id: 19,
+
+    name: "Dr. Divya Goel",
+    fullName: "Dr. Divya Goel | Pediatric Dentist & Mom In Noida/Delhi",
+    slug: "dr-divya-goel-pediatric-dentist-noida-delhi",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Pediatric dentist helping children build healthy teeth and happy smiles in Noida and Delhi.",
+
+    description:
+      "Dr. Divya Goel is a Pediatric Dentist serving patients in Noida and Delhi. She combines her professional experience as a pediatric dentist with her perspective as a mother, sharing practical guidance and real-life insights about children's dental health and motherhood. Her focus is on creating healthy teeth and happy smiles for children.",
+
+    rating: 4.5,
+    reviewCount: 100,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "",
+    city: "Noida",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: null,
+
+    openingHours: {
+      monday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      tuesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      wednesday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      thursday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      friday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      saturday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      sunday: "9:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    },
+
+    highlights: [
+      "Pediatric dentist",
+      "Children's dental care",
+      "Child-friendly dental guidance",
+      "Pediatric oral health",
+      "Dental care for children",
+      "Serving Noida and Delhi",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Divya Goel",
+        specialty: "Pediatric Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Specialized dental care focused on maintaining healthy teeth and oral health in children.",
+      },
+      {
+        name: "Children's Dental Check-up",
+        slug: "childrens-dental-checkup",
+        icon: "Stethoscope",
+        blurb:
+          "Dental examinations for children to monitor oral health and identify dental concerns early.",
+      },
+      {
+        name: "Preventive Dental Care for Children",
+        slug: "preventive-dental-care-for-children",
+        icon: "ShieldCheck",
+        blurb:
+          "Preventive oral care and guidance designed to help children maintain healthy teeth and gums.",
+      },
+      {
+        name: "Child Oral Health Guidance",
+        slug: "child-oral-health-guidance",
+        icon: "HeartPulse",
+        blurb:
+          "Practical guidance for parents and children on maintaining good oral hygiene and healthy dental habits.",
+      },
+    ],
+
+    reviewSummary: [
+      "Effective treatment",
+      "Experienced doctors",
+      "Caring staff",
+      "Quality dental care",
+    ],
+
+    testimonials: [
+      {
+        name: "Abhinav",
+        rating: 5,
+        city: "Delhi",
+        text: "Effective treatment with experienced doctor and good and caring staffs.",
+      },
+      {
+        name: "Jayshree Jaiswal",
+        rating: 5,
+        city: "Delhi",
+        text: "I would highly recommend this clinic for anyone looking for quality dental care!",
+      },
+      {
+        name: "Mazhar Husain",
+        rating: 5,
+        city: "Delhi",
+        text: "Great work done by Dr. Shivani Gupta and her staff.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Pediatric dental care",
+      "Child-focused dentistry",
+      "Preventive oral health",
+      "Parent-friendly dental guidance",
+      "Children's dental wellness",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Dr. Divya Goel?",
+        a: "Dr. Divya Goel is a Pediatric Dentist serving patients in Noida and Delhi. She also shares insights about children's dental health and her experience as a mother.",
+      },
+      {
+        q: "What does Dr. Divya Goel specialize in?",
+        a: "Dr. Divya Goel specializes in pediatric dentistry and focuses on children's dental health and happy, healthy smiles.",
+      },
+      {
+        q: "Does Dr. Divya Goel provide children's dental care?",
+        a: "Yes. Pediatric dentistry and children's oral health are the primary focus of her professional profile.",
+      },
+      {
+        q: "Where does Dr. Divya Goel practice?",
+        a: "Dr. Divya Goel is listed as a Pediatric Dentist serving Noida and Delhi.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Divya Goel | Pediatric Dentist in Noida & Delhi",
+      description:
+        "Dr. Divya Goel is a Pediatric Dentist serving Noida and Delhi, focusing on children's dental health, preventive care and happy, healthy smiles.",
+      keywords: [
+        "Dr Divya Goel",
+        "Dr Divya Goel pediatric dentist",
+        "pediatric dentist Noida",
+        "pediatric dentist Delhi",
+        "children dentist Noida",
+        "children's dentist Delhi",
+        "kids dentist Noida",
+        "kids dentist Delhi",
+        "pediatric dental care Noida",
+        "pediatric dental care Delhi",
+        "child dental care",
+        "dentist for children Noida",
+      ],
+    },
+  },
 ];
 
-export const dentist = [...fromGMB, ...fromInsta];
+export const dentist = [...fromGMB, ...fromInsta].sort((a, b) => a.id - b.id);
