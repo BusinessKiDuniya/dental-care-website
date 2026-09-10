@@ -1838,6 +1838,1247 @@ const fromGMB = [
       ],
     },
   },
+
+  // 10 Sep
+
+  {
+    id: 20,
+
+    name: "Vardhman Dental Clinic",
+    fullName: "Vardhman Dental Clinic",
+    slug: "vardhman-dental-clinic-orthodontic-centre-dr-kirti-jain",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Dental, orthodontic and cosmetic care in Maurya Enclave, Baba Colony, Burari.",
+
+    description:
+      "Vardhman Dental Clinic & Orthodontic Centre Dr Kirti Jain is a dental clinic located in Maurya Enclave, Baba Colony, Burari, Delhi. The clinic provides a range of dental services including emergency care, cosmetic procedures, dental check-ups, tooth extractions, dental implants, dentures and bridges, and dental bonding. The clinic has a 4.9-star rating based on 71 reviews, with patients highlighting the doctor's kind and friendly behavior and affordable treatment.",
+
+    rating: 4.9,
+    reviewCount: 71,
+
+    phone: "09910853297",
+    whatsapp: "09910853297",
+
+    address: "Maurya Enclave, Baba Colony, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open · Closes 8 pm",
+      tuesday: "Open · Closes 8 pm",
+      wednesday: "Open · Closes 8 pm",
+      thursday: "Open · Closes 8 pm",
+      friday: "Open · Closes 8 pm",
+      saturday: "Open · Closes 8 pm",
+      sunday: "Open · Closes 8 pm",
+    },
+
+    highlights: [
+      "Emergency dental care",
+      "Cosmetic dental procedures",
+      "Dental check-ups",
+      "Tooth extractions",
+      "Dental implants",
+      "Dentures and bridges",
+      "Dental bonding",
+      "Orthodontic care",
+    ],
+
+    doctors: [
+      {
+        name: "Dr Kirti Jain",
+        specialty: "Dentist & Orthodontist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant services for replacing missing teeth and restoring dental function.",
+      },
+      {
+        name: "Orthodontic Treatment",
+        slug: "orthodontic-treatment",
+        icon: "AlignJustify",
+        blurb:
+          "Orthodontic consultation and treatment for improving tooth alignment and smile aesthetics.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for maintaining oral health.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Dental extraction services for teeth requiring removal as part of treatment.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental procedures focused on improving the appearance of teeth and smiles.",
+      },
+      {
+        name: "Dentures & Bridges",
+        slug: "dentures-and-bridges",
+        icon: "Crown",
+        blurb:
+          "Dentures and dental bridge solutions for replacing missing teeth and restoring oral function.",
+      },
+      {
+        name: "Dental Bonding",
+        slug: "dental-bonding",
+        icon: "Circle",
+        blurb:
+          "Dental bonding procedures to repair and improve the appearance of damaged or discolored teeth.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Emergency dental assistance for urgent dental problems requiring prompt professional attention.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly rated dental clinic with a 4.9-star rating",
+      "Kind and friendly doctor behavior",
+      "Great treatment at an affordable price",
+      "Positive patient experience",
+    ],
+
+    testimonials: [
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "The doctor’s behaviour is very kind and friendly.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Thank you so much, such a great treatment at an affordable price.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Highly rated dental clinic",
+      "Orthodontic care",
+      "Emergency dental care",
+      "Cosmetic dental procedures",
+      "Dental implant services",
+      "Dentures and bridges",
+      "Dental bonding",
+      "Affordable treatment",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Vardhman Dental Clinic & Orthodontic Centre Dr Kirti Jain located?",
+        a: "Vardhman Dental Clinic & Orthodontic Centre Dr Kirti Jain is located in Maurya Enclave, Baba Colony, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What services does Vardhman Dental Clinic & Orthodontic Centre provide?",
+        a: "The clinic provides emergency dental care, cosmetic procedures, dental check-ups, tooth extractions, dental implants, dentures and bridges, dental bonding and orthodontic care.",
+      },
+      {
+        q: "What is the rating of Vardhman Dental Clinic & Orthodontic Centre?",
+        a: "The clinic has a 4.9-star rating based on 71 reviews.",
+      },
+      {
+        q: "Who is the doctor at Vardhman Dental Clinic & Orthodontic Centre?",
+        a: "The clinic is associated with Dr Kirti Jain.",
+      },
+      {
+        q: "Does the clinic provide dental implants?",
+        a: "Yes. Dental implants are among the services listed for Vardhman Dental Clinic & Orthodontic Centre Dr Kirti Jain.",
+      },
+      {
+        q: "Does Vardhman Dental Clinic provide orthodontic treatment?",
+        a: "Yes. Orthodontic care is part of the clinic's services.",
+      },
+      {
+        q: "What time does Vardhman Dental Clinic close?",
+        a: "According to the provided business information, the clinic is open and closes at 8 pm.",
+      },
+    ],
+
+    seo: {
+      title:
+        "Vardhman Dental Clinic & Orthodontic Centre | Dentist in Burari, Delhi",
+      description:
+        "Vardhman Dental Clinic & Orthodontic Centre Dr Kirti Jain provides dental check-ups, orthodontic care, dental implants, extractions, cosmetic procedures, dentures, bridges, bonding and emergency dental care in Burari, Delhi.",
+      keywords: [
+        "Vardhman Dental Clinic",
+        "Vardhman Dental Clinic Burari",
+        "Vardhman Dental Clinic Dr Kirti Jain",
+        "Dr Kirti Jain dentist",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "orthodontist in Burari",
+        "dental clinic Baba Colony",
+        "dentist in Baba Colony",
+        "dentist in Maurya Enclave",
+        "dental implants Burari",
+        "orthodontic treatment Burari",
+        "cosmetic dentist Burari",
+        "emergency dentist Burari",
+      ],
+    },
+  },
+
+  {
+    id: 21,
+
+    name: "DR ARNAB ADHIKARI",
+    fullName: "DR ARNAB ADHIKARI: Dentist in Burari",
+    slug: "dr-arnab-adhikari-dentist",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Comprehensive dental, cosmetic and orthodontic care in Sant Nagar, Burari.",
+
+    description:
+      "DR ARNAB ADHIKARI is a dental clinic located at Main Bus Stand, Bengali Colony, Sant Nagar, Burari, Delhi. The clinic provides a comprehensive range of dental services including teeth whitening, dental bonding, check-ups, cosmetic procedures, dental implants, dentures and bridges, emergency dental care, extractions, fillings and sealants, mouth guards, online dentist booking, oral surgery, root canal treatment, teeth cleaning, teeth reshaping, veneers and crowns, and dental X-rays. The clinic has a 4.6-star rating based on 72 reviews, with patients praising the quality of root canal treatment and implant services, while some reviews also express dissatisfaction.",
+
+    rating: 4.6,
+    reviewCount: 72,
+
+    phone: "09717283134",
+    whatsapp: "09717283134",
+
+    address:
+      "Main Bus Stand, Bengali Colony, Sant Nagar, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open · Closes 7:30 pm",
+      tuesday: "Open · Closes 7:30 pm",
+      wednesday: "Open · Closes 7:30 pm",
+      thursday: "Open · Closes 7:30 pm",
+      friday: "Open · Closes 7:30 pm",
+      saturday: "Open · Closes 7:30 pm",
+      sunday: "Open · Closes 7:30 pm",
+    },
+
+    highlights: [
+      "Root canal treatment",
+      "Dental implants",
+      "Teeth whitening",
+      "Cosmetic dentistry",
+      "Teeth cleaning",
+      "Dental fillings and sealants",
+      "Veneers and crowns",
+      "Oral surgery",
+      "Emergency dental care",
+      "Dental X-rays",
+    ],
+
+    doctors: [
+      {
+        name: "Dr Arnab Adhikari",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Root canal treatment for managing infected or damaged teeth and restoring dental health.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant services for replacing missing teeth and restoring dental function.",
+      },
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth whitening procedures for improving tooth color and achieving a brighter smile.",
+      },
+      {
+        name: "Teeth Cleaning",
+        slug: "teeth-cleaning",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth cleaning services for maintaining oral hygiene and healthy teeth and gums.",
+      },
+      {
+        name: "Dental Fillings & Sealants",
+        slug: "dental-fillings-and-sealants",
+        icon: "Circle",
+        blurb:
+          "Fillings and dental sealants for treating cavities and protecting teeth from further decay.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Tooth extraction services for teeth requiring removal as part of dental treatment.",
+      },
+      {
+        name: "Veneers & Crowns",
+        slug: "veneers-and-crowns",
+        icon: "Crown",
+        blurb:
+          "Restorative and cosmetic dental treatments using veneers and crowns to improve tooth appearance and function.",
+      },
+      {
+        name: "Dental Bonding",
+        slug: "dental-bonding",
+        icon: "Circle",
+        blurb:
+          "Dental bonding procedures for repairing and improving the appearance of damaged or discolored teeth.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental procedures designed to improve the appearance of teeth and enhance smiles.",
+      },
+      {
+        name: "Dentures & Bridges",
+        slug: "dentures-and-bridges",
+        icon: "Crown",
+        blurb:
+          "Dentures and dental bridge solutions for replacing missing teeth and restoring oral function.",
+      },
+      {
+        name: "Teeth Reshaping",
+        slug: "teeth-reshaping",
+        icon: "Sparkles",
+        blurb:
+          "Dental reshaping procedures to improve tooth contours and overall smile appearance.",
+      },
+      {
+        name: "Mouth Guards",
+        slug: "mouth-guards",
+        icon: "Shield",
+        blurb:
+          "Custom dental mouth guard services for protecting teeth during activities or addressing specific oral needs.",
+      },
+      {
+        name: "Oral Surgery",
+        slug: "oral-surgery",
+        icon: "Activity",
+        blurb:
+          "Oral surgical procedures and consultations as part of comprehensive dental care.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Emergency dental assistance for urgent dental problems requiring prompt professional attention.",
+      },
+      {
+        name: "Dental X-Ray",
+        slug: "dental-x-ray",
+        icon: "Scan",
+        blurb:
+          "Dental X-ray services to support examination, diagnosis and treatment planning.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for assessing and maintaining oral health.",
+      },
+    ],
+
+    reviewSummary: [
+      "4.6-star rating based on 72 reviews",
+      "Root canal treatment praised by patients",
+      "Dental implant services receive positive feedback",
+      "Some patients report dissatisfaction with their experience",
+    ],
+
+    testimonials: [
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Root canal treatment and implants service is very good here.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Treated for RCT, satisfied with treatment. Probably best dentist in Burari area.",
+      },
+      {
+        name: "Patient Review",
+        rating: 1,
+        city: "Delhi",
+        text: "I would give him 0 if Google let me do so, complete waste of money.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Root canal treatment",
+      "Dental implant services",
+      "Cosmetic dental care",
+      "Teeth whitening",
+      "Teeth cleaning",
+      "Emergency dental care",
+      "Oral surgery",
+      "Dental X-ray services",
+      "Veneers and crowns",
+      "Online dentist booking",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is DR ARNAB ADHIKARI located?",
+        a: "DR ARNAB ADHIKARI is located at Main Bus Stand, Bengali Colony, Sant Nagar, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What dental services does DR ARNAB ADHIKARI provide?",
+        a: "The clinic provides teeth whitening, bonding, dental check-ups, cosmetic procedures, dental implants, dentures and bridges, emergency care, extractions, fillings and sealants, mouth guards, oral surgery, root canals, teeth cleaning, teeth reshaping, veneers and crowns, and dental X-rays.",
+      },
+      {
+        q: "What is the rating of DR ARNAB ADHIKARI?",
+        a: "DR ARNAB ADHIKARI has a 4.6-star rating based on 72 reviews.",
+      },
+      {
+        q: "Does DR ARNAB ADHIKARI provide root canal treatment?",
+        a: "Yes. Root canal treatment is among the dental services listed for the clinic, and patient reviews specifically mention satisfaction with RCT treatment.",
+      },
+      {
+        q: "Does the clinic provide dental implants?",
+        a: "Yes. Dental implants are among the services provided by the clinic.",
+      },
+      {
+        q: "Does DR ARNAB ADHIKARI provide emergency dental care?",
+        a: "Yes. Emergency dental care is listed among the clinic's available services.",
+      },
+      {
+        q: "What time does DR ARNAB ADHIKARI close?",
+        a: "According to the provided business information, the clinic is open and closes at 7:30 pm.",
+      },
+    ],
+
+    seo: {
+      title: "DR ARNAB ADHIKARI | Dentist in Burari, Delhi",
+      description:
+        "DR ARNAB ADHIKARI provides root canals, dental implants, teeth cleaning, whitening, cosmetic dentistry, extractions, fillings, veneers, crowns, oral surgery and emergency dental care in Burari, Delhi.",
+      keywords: [
+        "DR ARNAB ADHIKARI",
+        "Dr Arnab Adhikari dentist",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "dentist in Sant Nagar",
+        "dentist in Sant Nagar Burari",
+        "dental clinic Sant Nagar",
+        "root canal Burari",
+        "RCT dentist Burari",
+        "dental implants Burari",
+        "cosmetic dentist Burari",
+        "teeth whitening Burari",
+        "orthodontic dentist Burari",
+        "emergency dentist Burari",
+        "best dentist in Burari",
+      ],
+    },
+  },
+
+  {
+    id: 22,
+
+    name: "Atithya Dental",
+    fullName: "Atithya Dental: Dental Clinic in Burari",
+    slug: "atithya-dental-burari",
+
+    category: "Dental Clinic",
+
+    tagline: "Trusted and reliable dental care in Tomar Colony, Burari.",
+
+    description:
+      "Atithya Dental is a dental clinic located at Shop No. 2, Street 11, opposite the Government School (Lal Building), 41 Feet Road, Tomar Colony, Burari, Delhi. The clinic is rated 5.0 stars based on 16 reviews. Patients highlight the clinic's good facilities, reliable practitioner and positive treatment experiences, with several reviews specifically recommending Dr. Anshu for quality dental care.",
+
+    rating: 5.0,
+    reviewCount: 16,
+
+    phone: "07832930300",
+    whatsapp: "07832930300",
+
+    address:
+      "Shop No. 2, Street 11, Opp Govt School (Lal Building), 41 Feet Road, Tomar Colony, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open · Closes 11:30 pm",
+      tuesday: "Open · Closes 11:30 pm",
+      wednesday: "Open · Closes 11:30 pm",
+      thursday: "Open · Closes 11:30 pm",
+      friday: "Open · Closes 11:30 pm",
+      saturday: "Open · Closes 11:30 pm",
+      sunday: "Open · Closes 11:30 pm",
+    },
+
+    highlights: [
+      "Open until 11:30 pm",
+      "Dental consultations",
+      "Quality dental care",
+      "Reliable dental practitioner",
+      "Patient-focused care",
+      "Good clinic facilities",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Anshu",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for assessing and maintaining oral health.",
+      },
+      {
+        name: "Teeth Cleaning & Scaling",
+        slug: "teeth-cleaning-and-scaling",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth cleaning, scaling and polishing for maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Root canal care for treating infected or damaged teeth and helping preserve natural teeth.",
+      },
+      {
+        name: "Dental Fillings",
+        slug: "dental-fillings",
+        icon: "Circle",
+        blurb:
+          "Dental cavity fillings and restorative treatments for damaged or decayed teeth.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Tooth extraction services for teeth requiring removal as part of dental treatment.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant treatment for replacing missing teeth and restoring dental function.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental procedures designed to improve the appearance of teeth and smiles.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Dental assistance for urgent dental problems requiring prompt professional attention.",
+      },
+    ],
+
+    reviewSummary: [
+      "5.0-star rating based on 16 reviews",
+      "Good clinic facilities",
+      "Reliable practitioner",
+      "Highly recommended by patients",
+      "Wonderful experience reported by patients",
+    ],
+
+    testimonials: [
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Good facility, reliable practitioner.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "I highly recommend Dr. Anshu to anyone seeking top-notch dental care.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Wonderful experience every time I visit.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "5.0-star patient rating",
+      "Good clinic facilities",
+      "Reliable dental practitioner",
+      "Patient-focused dental care",
+      "Quality dental services",
+      "Open until 11:30 pm",
+      "Dental consultation",
+      "Comprehensive dental care",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Atithya Dental located?",
+        a: "Atithya Dental is located at Shop No. 2, Street 11, opposite the Government School (Lal Building), 41 Feet Road, Tomar Colony, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What is the rating of Atithya Dental?",
+        a: "Atithya Dental has a 5.0-star rating based on 16 reviews.",
+      },
+      {
+        q: "Who is the doctor at Atithya Dental?",
+        a: "Dr. Anshu is mentioned in patient reviews associated with Atithya Dental.",
+      },
+      {
+        q: "What do patients say about Atithya Dental?",
+        a: "Patients mention good facilities, a reliable practitioner, top-notch dental care and a wonderful experience during their visits.",
+      },
+      {
+        q: "What time does Atithya Dental close?",
+        a: "According to the provided business information, Atithya Dental is open and closes at 11:30 pm.",
+      },
+      {
+        q: "Does Atithya Dental provide dental treatment in Burari?",
+        a: "Yes. Atithya Dental is a dental clinic located in Tomar Colony, Burari, Delhi.",
+      },
+    ],
+
+    seo: {
+      title: "Atithya Dental | Dentist in Burari, Delhi",
+      description:
+        "Atithya Dental is a highly rated dental clinic in Tomar Colony, Burari, Delhi, offering reliable dental care with a 5.0-star rating based on 16 reviews.",
+      keywords: [
+        "Atithya Dental",
+        "Atithya Dental Burari",
+        "Atithya Dental Tomar Colony",
+        "Dr Anshu dentist",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "dentist in Tomar Colony",
+        "dental clinic Tomar Colony",
+        "dentist near 41 Feet Road",
+        "best dentist in Burari",
+        "dental clinic near Baba Colony",
+        "dental care Burari",
+        "dental clinic Delhi",
+      ],
+    },
+  },
+
+  {
+    id: 23,
+
+    name: "Family Dental",
+    fullName: "Family Dental: Dental Clinic in Burari",
+    slug: "family-dental-burari",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Dental care and treatment for patients in West Sant Nagar, Burari.",
+
+    description:
+      "Family Dental is a dental clinic located at 877, Parvatiya Anchal, Block B, West Sant Nagar, Burari, Delhi. The clinic has a 4.0-star rating based on 2 reviews. Patients have described the doctor positively and mentioned receiving effective treatment.",
+
+    rating: 4.0,
+    reviewCount: 2,
+
+    phone: "09596873749",
+    whatsapp: "09596873749",
+
+    address:
+      "877, Parvatiya Anchal, Block B, West Sant Nagar, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open · Closes 6:30 pm",
+      tuesday: "Open · Closes 6:30 pm",
+      wednesday: "Open · Closes 6:30 pm",
+      thursday: "Open · Closes 6:30 pm",
+      friday: "Open · Closes 6:30 pm",
+      saturday: "Open · Closes 6:30 pm",
+      sunday: "Open · Closes 6:30 pm",
+    },
+
+    highlights: [
+      "Dental consultations",
+      "Dental treatment",
+      "Patient-focused care",
+      "Positive treatment reviews",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for assessing and maintaining oral health.",
+      },
+      {
+        name: "Teeth Cleaning & Scaling",
+        slug: "teeth-cleaning-and-scaling",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth cleaning, scaling and polishing for maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Dental Fillings",
+        slug: "dental-fillings",
+        icon: "Circle",
+        blurb:
+          "Dental cavity fillings and restorative treatment for damaged or decayed teeth.",
+      },
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Root canal care for treating infected or damaged teeth and helping preserve natural teeth.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Tooth extraction services for teeth requiring removal as part of dental treatment.",
+      },
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "General dental consultations and treatment for maintaining healthy teeth and gums.",
+      },
+    ],
+
+    reviewSummary: [
+      "4.0-star rating based on 2 reviews",
+      "Positive feedback about the doctor",
+      "Patients mention effective treatment",
+    ],
+
+    testimonials: [
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Delicate doctor heare.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "And perfect treatment.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Dental consultation",
+      "General dental care",
+      "Patient-focused treatment",
+      "Positive patient feedback",
+      "Convenient Burari location",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Family Dental located?",
+        a: "Family Dental is located at 877, Parvatiya Anchal, Block B, West Sant Nagar, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What is the rating of Family Dental?",
+        a: "Family Dental has a 4.0-star rating based on 2 reviews.",
+      },
+      {
+        q: "What do patients say about Family Dental?",
+        a: "The provided reviews describe the doctor positively and mention receiving perfect treatment.",
+      },
+      {
+        q: "What time does Family Dental close?",
+        a: "According to the provided business information, Family Dental is open and closes at 6:30 pm.",
+      },
+      {
+        q: "Is Family Dental located in Burari, Delhi?",
+        a: "Yes. Family Dental is located in West Sant Nagar, Burari, Delhi - 110084.",
+      },
+    ],
+
+    seo: {
+      title: "Family Dental | Dentist in Burari, Delhi",
+      description:
+        "Family Dental is a dental clinic in West Sant Nagar, Burari, Delhi, providing dental consultations and treatment for patients in the local area.",
+      keywords: [
+        "Family Dental",
+        "Family Dental Burari",
+        "Family Dental West Sant Nagar",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "dentist in West Sant Nagar",
+        "dental clinic West Sant Nagar",
+        "dentist near Parvatiya Anchal",
+        "dental treatment Burari",
+        "dental care Burari",
+        "dentist in Sant Nagar",
+        "dental clinic Delhi",
+      ],
+    },
+  },
+
+  {
+    id: 24,
+
+    name: "Bright Smile Dental Clinic",
+    fullName: "Bright Smile Dental Clinic: Dentist in Burari",
+    slug: "bright-smile-dental-clinic-burari",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Comprehensive, affordable dental care in Numbardar Colony, Burari.",
+
+    description:
+      "Bright Smile Dental Clinic is a dental clinic located at Kh No. 647/1, near Shop No. 3, Numbardar Colony, Burari, Delhi. The clinic provides a comprehensive range of dental services including teeth whitening, dental bonding, check-ups, cosmetic procedures, dental implants, dentures and bridges, emergency care, extractions, fillings and sealants, laser dentistry, mouth guards, online dentist booking, oral surgery, pediatric dentistry, root canal treatment, teeth cleaning, teeth reshaping, veneers and crowns, and dental X-rays. The clinic has a 5.0-star rating based on 15 reviews, with patients highlighting their positive experiences, quality of work and reasonable fees.",
+
+    rating: 5.0,
+    reviewCount: 15,
+
+    phone: "09211595649",
+    whatsapp: "09211595649",
+
+    address:
+      "Kh No. 647/1, Mahalaxmi Appartment, near Shop No. 3, Numbardar Colony, Burari, Delhi, 110084",
+
+    city: "Delhi",
+    area: "Burari",
+    pincode: "110084",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open · Closes 9 pm",
+      tuesday: "Open · Closes 9 pm",
+      wednesday: "Open · Closes 9 pm",
+      thursday: "Open · Closes 9 pm",
+      friday: "Open · Closes 9 pm",
+      saturday: "Open · Closes 9 pm",
+      sunday: "Open · Closes 9 pm",
+    },
+
+    highlights: [
+      "Open until 9 pm",
+      "Teeth whitening",
+      "Dental implants",
+      "Root canal treatment",
+      "Cosmetic dentistry",
+      "Laser dentistry",
+      "Pediatric dentistry",
+      "Emergency dental care",
+      "Oral surgery",
+      "Reasonable fees",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant services for replacing missing teeth and restoring dental function.",
+      },
+      {
+        name: "Root Canal Treatment",
+        slug: "root-canal-treatment",
+        icon: "Activity",
+        blurb:
+          "Root canal treatment for infected or damaged teeth and helping preserve natural teeth.",
+      },
+      {
+        name: "Teeth Whitening",
+        slug: "teeth-whitening",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth whitening treatments for removing stains and creating a brighter smile.",
+      },
+      {
+        name: "Teeth Cleaning & Scaling",
+        slug: "teeth-cleaning-and-scaling",
+        icon: "Sparkles",
+        blurb:
+          "Professional teeth cleaning, scaling and polishing for maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Dental Fillings & Sealants",
+        slug: "dental-fillings-and-sealants",
+        icon: "Circle",
+        blurb:
+          "Fillings and dental sealants for treating cavities and protecting teeth from further decay.",
+      },
+      {
+        name: "Tooth Extraction",
+        slug: "tooth-extraction",
+        icon: "Scissors",
+        blurb:
+          "Tooth extraction services for teeth requiring removal as part of dental treatment.",
+      },
+      {
+        name: "Orthodontic Treatment",
+        slug: "orthodontic-treatment",
+        icon: "AlignJustify",
+        blurb:
+          "Orthodontic assessment and treatment to improve tooth alignment and smile appearance.",
+      },
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental procedures designed to improve the appearance and aesthetics of teeth and smiles.",
+      },
+      {
+        name: "Veneers & Crowns",
+        slug: "veneers-and-crowns",
+        icon: "Crown",
+        blurb:
+          "Cosmetic and restorative treatments using veneers and crowns to improve tooth appearance and function.",
+      },
+      {
+        name: "Dentures & Bridges",
+        slug: "dentures-and-bridges",
+        icon: "Crown",
+        blurb:
+          "Dentures and dental bridges for replacing missing teeth and restoring oral function.",
+      },
+      {
+        name: "Dental Bonding",
+        slug: "dental-bonding",
+        icon: "Circle",
+        blurb:
+          "Dental bonding procedures for repairing and improving the appearance of damaged or discolored teeth.",
+      },
+      {
+        name: "Laser Dentistry",
+        slug: "laser-dentistry",
+        icon: "Zap",
+        blurb:
+          "Laser-based dental procedures for selected dental and gum care needs.",
+      },
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Child-focused dental care and treatment for maintaining children's oral health.",
+      },
+      {
+        name: "Mouth Guards",
+        slug: "mouth-guards",
+        icon: "Shield",
+        blurb:
+          "Dental mouth guard services for protecting teeth and supporting specific oral care needs.",
+      },
+      {
+        name: "Oral Surgery",
+        slug: "oral-surgery",
+        icon: "Activity",
+        blurb:
+          "Oral surgical procedures and consultations as part of comprehensive dental care.",
+      },
+      {
+        name: "Emergency Dental Care",
+        slug: "emergency-dental-care",
+        icon: "AlertCircle",
+        blurb:
+          "Emergency dental assistance for urgent dental problems requiring prompt professional attention.",
+      },
+      {
+        name: "Teeth Reshaping",
+        slug: "teeth-reshaping",
+        icon: "Sparkles",
+        blurb:
+          "Dental reshaping procedures designed to improve tooth contours and smile appearance.",
+      },
+      {
+        name: "Dental X-Ray",
+        slug: "dental-x-ray",
+        icon: "Scan",
+        blurb:
+          "Dental X-ray services to support examination, diagnosis and dental treatment planning.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for assessing and maintaining oral health.",
+      },
+    ],
+
+    reviewSummary: [
+      "5.0-star rating based on 15 reviews",
+      "Very good patient experience",
+      "Wonderful clinic experience",
+      "Excellent dental work",
+      "Reasonable treatment fees",
+    ],
+
+    testimonials: [
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Very good experience.",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "I had a wonderful experience at Bright Smile Clinic!",
+      },
+      {
+        name: "Patient Review",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent work with reasonable fees!",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "5.0-star patient rating",
+      "Comprehensive dental services",
+      "Dental implant services",
+      "Root canal treatment",
+      "Cosmetic dental care",
+      "Laser dentistry",
+      "Pediatric dental care",
+      "Emergency dental care",
+      "Oral surgery",
+      "Reasonable fees",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Bright Smile Dental Clinic located?",
+        a: "Bright Smile Dental Clinic is located at Kh No. 647/1, Mahalaxmi Appartment, near Shop No. 3, Numbardar Colony, Burari, Delhi - 110084.",
+      },
+      {
+        q: "What dental services does Bright Smile Dental Clinic provide?",
+        a: "The clinic provides teeth whitening, bonding, check-ups, cosmetic procedures, dental implants, dentures and bridges, emergency care, extractions, fillings and sealants, laser dentistry, mouth guards, oral surgery, pediatric dentistry, root canal treatment, teeth cleaning, teeth reshaping, veneers and crowns, and dental X-rays.",
+      },
+      {
+        q: "What is the rating of Bright Smile Dental Clinic?",
+        a: "Bright Smile Dental Clinic has a 5.0-star rating based on 15 reviews.",
+      },
+      {
+        q: "Does Bright Smile Dental Clinic provide dental implants?",
+        a: "Yes. Dental implants are among the services listed for Bright Smile Dental Clinic.",
+      },
+      {
+        q: "Does the clinic provide root canal treatment?",
+        a: "Yes. Root canal treatment is among the dental services listed for the clinic.",
+      },
+      {
+        q: "Does Bright Smile Dental Clinic provide pediatric dentistry?",
+        a: "Yes. Pediatric dental care is listed among the clinic's available services.",
+      },
+      {
+        q: "What time does Bright Smile Dental Clinic close?",
+        a: "According to the provided business information, Bright Smile Dental Clinic is open and closes at 9 pm.",
+      },
+    ],
+
+    seo: {
+      title: "Bright Smile Dental Clinic | Dentist in Burari, Delhi",
+      description:
+        "Bright Smile Dental Clinic offers dental implants, root canals, teeth whitening, cosmetic dentistry, pediatric care, laser dentistry, oral surgery and emergency dental care in Burari, Delhi.",
+      keywords: [
+        "Bright Smile Dental Clinic",
+        "Bright Smile Dental Clinic Burari",
+        "dentist in Burari",
+        "dentist near Burari",
+        "dental clinic in Burari",
+        "dentist in Numbardar Colony",
+        "dental clinic Numbardar Colony",
+        "dentist near Mahalaxmi Apartment Burari",
+        "best dentist in Burari",
+        "dental implants Burari",
+        "root canal Burari",
+        "teeth whitening Burari",
+        "cosmetic dentist Burari",
+        "pediatric dentist Burari",
+        "laser dentistry Burari",
+        "emergency dentist Burari",
+        "oral surgeon Burari",
+      ],
+    },
+  },
 ];
 
 const fromInsta = [
@@ -3827,6 +5068,923 @@ const fromInsta = [
         "pediatric dental care Delhi",
         "child dental care",
         "dentist for children Noida",
+      ],
+    },
+  },
+
+  // 10 Sep
+
+  {
+    id: 25,
+
+    name: "EDITION DENTAL",
+    fullName: "EDITION DENTAL",
+    slug: "edition-dental-liberty-village",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "One-stop dental care offering cosmetic, surgical and preventive treatments in Liberty Village.",
+
+    description:
+      "EDITION DENTAL | Liberty Village is a dental clinic offering cosmetic, surgical and preventive dental care. The clinic describes itself as a one-stop shop for dental needs and states that it is open 7 days a week with extended clinic hours.",
+
+    rating: 4.5,
+    reviewCount: 100,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "",
+
+    city: "Toronto",
+    area: "Liberty Village",
+    pincode: "",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open 7 days · Extended clinic hours",
+      tuesday: "Open 7 days · Extended clinic hours",
+      wednesday: "Open 7 days · Extended clinic hours",
+      thursday: "Open 7 days · Extended clinic hours",
+      friday: "Open 7 days · Extended clinic hours",
+      saturday: "Open 7 days · Extended clinic hours",
+      sunday: "Open 7 days · Extended clinic hours",
+    },
+
+    highlights: [
+      "Open 7 days a week",
+      "Extended clinic hours",
+      "Cosmetic dentistry",
+      "Surgical dental care",
+      "Preventive dental care",
+      "One-stop dental care",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental care focused on improving the appearance and aesthetics of the smile.",
+      },
+      {
+        name: "Preventive Dentistry",
+        slug: "preventive-dentistry",
+        icon: "Shield",
+        blurb:
+          "Preventive dental care designed to maintain oral health and help prevent dental problems.",
+      },
+      {
+        name: "Surgical Dentistry",
+        slug: "surgical-dentistry",
+        icon: "Activity",
+        blurb:
+          "Surgical dental care provided as part of comprehensive oral treatment.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Dental examinations and consultations for assessing and maintaining oral health.",
+      },
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "General dental care for common oral health needs and ongoing dental maintenance.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "James Anderson",
+        rating: 5,
+        city: "",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Robert",
+        rating: 5,
+        city: "",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Michal Clerk",
+        rating: 5,
+        city: "",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Open 7 days a week",
+      "Extended clinic hours",
+      "Cosmetic dental care",
+      "Surgical dental care",
+      "Preventive dental care",
+      "Comprehensive dental services",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is EDITION DENTAL located?",
+        a: "EDITION DENTAL | Liberty Village is located in the Liberty Village area. The exact street address was not provided in the available information.",
+      },
+      {
+        q: "What type of dental care does EDITION DENTAL provide?",
+        a: "EDITION DENTAL describes its services as including cosmetic, surgical and preventive dental care.",
+      },
+      {
+        q: "Is EDITION DENTAL open every day?",
+        a: "According to the provided profile information, EDITION DENTAL is open 7 days a week with extended clinic hours.",
+      },
+      {
+        q: "Does EDITION DENTAL provide cosmetic dentistry?",
+        a: "Yes. Cosmetic dental care is specifically mentioned in the clinic's profile.",
+      },
+      {
+        q: "Does EDITION DENTAL provide surgical dental care?",
+        a: "Yes. Surgical dental care is specifically mentioned in the clinic's profile.",
+      },
+    ],
+
+    seo: {
+      title: "EDITION DENTAL | Liberty Village | Dental Clinic",
+      description:
+        "EDITION DENTAL in Liberty Village offers cosmetic, surgical and preventive dental care with 7-day availability and extended clinic hours.",
+      keywords: [
+        "EDITION DENTAL",
+        "EDITION DENTAL Liberty Village",
+        "Edition Dental Toronto",
+        "dentist in Liberty Village",
+        "dental clinic Liberty Village",
+        "dentist near Liberty Village",
+        "cosmetic dentist Liberty Village",
+        "preventive dentistry Liberty Village",
+        "surgical dentist Liberty Village",
+        "dental clinic Toronto",
+        "dentist Toronto",
+      ],
+    },
+  },
+
+  {
+    id: 26,
+
+    name: "Sukirti Mandal Biswas",
+    fullName:
+      "Sukirti Mandal Biswas: Cosmetic Dentist, Dental Surgeon & Implantologist",
+    slug: "sukirti-mandal-biswas-cosmetic-dentist",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Dental surgeon, cosmetic dentist and implantologist specializing in comprehensive dental care.",
+
+    description:
+      "Dr. Sukirti Mandal Biswas is a dental surgeon, cosmetic dentist and implantologist. Her profile describes her as an entrepreneur and doctor with a focus on cosmetic dentistry and dental implantology. She also maintains an online presence through social media and YouTube, where she shares dental-related content.",
+
+    rating: 100,
+    reviewCount: 4.5,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "",
+
+    city: "",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open 24 hours",
+      tuesday: "Open 24 hours",
+      wednesday: "Open 24 hours",
+      thursday: "Open 24 hours",
+      friday: "Open 24 hours",
+      saturday: "Open 24 hours",
+      sunday: "Open 24 hours",
+    },
+
+    highlights: [
+      "Dental surgeon",
+      "Cosmetic dentist",
+      "Implantologist",
+      "Cosmetic dental care",
+      "Dental implant services",
+      "Doctor and entrepreneur",
+      "Online dental content",
+    ],
+
+    doctors: [
+      {
+        name: "Sukirti Mandal Biswas",
+        specialty: "Cosmetic Dentist, Dental Surgeon & Implantologist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Cosmetic Dentistry",
+        slug: "cosmetic-dentistry",
+        icon: "Smile",
+        blurb:
+          "Cosmetic dental treatments focused on improving the appearance of teeth and enhancing smiles.",
+      },
+      {
+        name: "Dental Implants",
+        slug: "dental-implants",
+        icon: "Crown",
+        blurb:
+          "Dental implant treatment for replacing missing teeth and restoring dental function and appearance.",
+      },
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "General dental care and consultations for maintaining oral health and addressing common dental concerns.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Dental examinations and consultations for evaluating and maintaining oral health.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Cosmetic dentistry",
+      "Dental surgery",
+      "Dental implantology",
+      "Comprehensive dental care",
+      "Experienced dental professional",
+      "Online dental content",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Sukirti Mandal Biswas?",
+        a: "Sukirti Mandal Biswas is a doctor and dental professional who describes herself as a dental surgeon, cosmetic dentist and implantologist.",
+      },
+      {
+        q: "What is Dr. Sukirti Mandal Biswas's specialty?",
+        a: "Her profile identifies her as a cosmetic dentist, dental surgeon and implantologist.",
+      },
+      {
+        q: "Does Dr. Sukirti Mandal Biswas specialize in cosmetic dentistry?",
+        a: "Yes. Cosmetic dentistry is specifically listed among her professional specialties.",
+      },
+      {
+        q: "Does Dr. Sukirti Mandal Biswas provide dental implant treatment?",
+        a: "Her profile identifies her as an implantologist, indicating a professional focus on dental implantology.",
+      },
+      {
+        q: "Where is Dr. Sukirti Mandal Biswas located?",
+        a: "The location or clinic address was not provided in the supplied profile information.",
+      },
+    ],
+
+    seo: {
+      title: "Dr Sukirti Mandal Biswas | Cosmetic Dentist & Implantologist",
+      description:
+        "Dr Sukirti Mandal Biswas is a dental surgeon, cosmetic dentist and implantologist specializing in cosmetic dentistry and dental implantology.",
+      keywords: [
+        "Dr Sukirti Mandal Biswas",
+        "Sukirti Mandal Biswas dentist",
+        "Dr Sukirti cosmetic dentist",
+        "cosmetic dentist",
+        "dental surgeon",
+        "implantologist",
+        "cosmetic dentistry",
+        "dental implants",
+        "dental implantologist",
+        "cosmetic dental surgeon",
+      ],
+    },
+  },
+
+  {
+    id: 27,
+
+    name: "Dr. Dana Awad",
+    fullName: "Dr. Dana Awad: General Dentist",
+    slug: "dr-dana-awad-general-dentist",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "General dental care focused on creating healthy, confident smiles.",
+
+    description:
+      "Dr. Dana Awad is a general dentist focused on providing dental care and creating healthy, confident smiles. Her professional profile identifies her as a general dentist and features dental-focused content.",
+
+    rating: 4.5,
+    reviewCount: 100,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "",
+
+    city: "",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open 24 hours",
+      tuesday: "Open 24 hours",
+      wednesday: "Open 24 hours",
+      thursday: "Open 24 hours",
+      friday: "Open 24 hours",
+      saturday: "Open 24 hours",
+      sunday: "Open 24 hours",
+    },
+
+    highlights: [
+      "General dentistry",
+      "Dental consultations",
+      "Comprehensive oral care",
+      "Smile-focused dental care",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Dana Awad",
+        specialty: "General Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "General dental care for common oral health needs and maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations and consultations for assessing and maintaining oral health.",
+      },
+      {
+        name: "Preventive Dentistry",
+        slug: "preventive-dentistry",
+        icon: "Shield",
+        blurb:
+          "Preventive dental care focused on maintaining oral health and reducing the risk of dental problems.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "General dental care",
+      "Dental consultations",
+      "Preventive oral care",
+      "Smile-focused treatment",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Dr. Dana Awad?",
+        a: "Dr. Dana Awad is a general dentist who focuses on dental care and creating healthy smiles.",
+      },
+      {
+        q: "What is Dr. Dana Awad's specialty?",
+        a: "Dr. Dana Awad identifies as a general dentist.",
+      },
+      {
+        q: "What type of dental care does Dr. Dana Awad provide?",
+        a: "Her profile identifies her as a general dentist. Specific additional treatments were not provided in the supplied information.",
+      },
+      {
+        q: "Where is Dr. Dana Awad located?",
+        a: "The clinic location or address was not provided in the supplied profile information.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Dana Awad | General Dentist",
+      description:
+        "Dr. Dana Awad is a general dentist focused on comprehensive dental care and creating healthy, confident smiles.",
+      keywords: [
+        "Dr Dana Awad",
+        "Dana Awad dentist",
+        "Dr Dana Awad dentist",
+        "general dentist",
+        "general dentistry",
+        "dentist",
+        "dental care",
+        "dental consultation",
+        "smile dentist",
+      ],
+    },
+  },
+
+  {
+    id: 28,
+
+    name: "Dr. Sakshi Patel",
+    fullName: "Dr. Sakshi Patel: Kids Dentist",
+    slug: "dr-sakshi-patel-kids-dentist",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Child-focused dental care making healthy smiles fun, educational and relatable.",
+
+    description:
+      "Dr. Sakshi Patel is a kids dentist who focuses on creating positive and engaging dental experiences for children. Her profile highlights child-friendly dental content presented through fun, educational and relatable videos, with an emphasis on creating healthy smiles.",
+
+    rating: 4,
+    reviewCount: 100,
+
+    phone: "",
+    whatsapp: "",
+
+    address: "",
+
+    city: "",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open 24 hours",
+      tuesday: "Open 24 hours",
+      wednesday: "Open 24 hours",
+      thursday: "Open 24 hours",
+      friday: "Open 24 hours",
+      saturday: "Open 24 hours",
+      sunday: "Open 24 hours",
+    },
+
+    highlights: [
+      "Kids dentistry",
+      "Child-focused dental care",
+      "Pediatric dental education",
+      "Fun and engaging dental content",
+      "Educational dental guidance",
+      "Smile-focused care",
+    ],
+
+    doctors: [
+      {
+        name: "Dr. Sakshi Patel",
+        specialty: "Kids Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-1.jpg",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "Pediatric Dentistry",
+        slug: "pediatric-dentistry",
+        icon: "Smile",
+        blurb:
+          "Child-focused dental care designed to support healthy teeth, gums and positive dental experiences for children.",
+      },
+      {
+        name: "Children's Dental Check-ups",
+        slug: "childrens-dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations for children to monitor oral health and identify dental concerns early.",
+      },
+      {
+        name: "Preventive Dentistry for Children",
+        slug: "preventive-dentistry-for-children",
+        icon: "Shield",
+        blurb:
+          "Preventive dental care and oral health guidance designed specifically for children's developing teeth.",
+      },
+      {
+        name: "Kids Oral Health Education",
+        slug: "kids-oral-health-education",
+        icon: "BookOpen",
+        blurb:
+          "Fun and educational guidance to help children understand healthy oral hygiene habits and dental care.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Kids dentist",
+      "Pediatric dental care",
+      "Child-friendly approach",
+      "Preventive dental care",
+      "Dental health education",
+      "Fun and educational content",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Who is Dr. Sakshi Patel?",
+        a: "Dr. Sakshi Patel is a kids dentist who focuses on child-oriented dental care and creating positive dental experiences for children.",
+      },
+      {
+        q: "What is Dr. Sakshi Patel's specialty?",
+        a: "Dr. Sakshi Patel identifies as a kids dentist, specializing in dental care for children.",
+      },
+      {
+        q: "What type of dental care does Dr. Sakshi Patel provide?",
+        a: "Her profile identifies her as a kids dentist. Specific clinical procedures were not provided in the supplied profile information.",
+      },
+      {
+        q: "Does Dr. Sakshi Patel provide pediatric dentistry?",
+        a: "Yes. Her profile specifically identifies her as a kids dentist, indicating a focus on pediatric dental care.",
+      },
+      {
+        q: "Where is Dr. Sakshi Patel located?",
+        a: "The clinic location or address was not provided in the supplied profile information.",
+      },
+    ],
+
+    seo: {
+      title: "Dr. Sakshi Patel | Kids Dentist",
+      description:
+        "Dr. Sakshi Patel is a kids dentist focused on child-friendly dental care, pediatric oral health and creating healthy smiles through fun and educational guidance.",
+      keywords: [
+        "Dr Sakshi Patel",
+        "Dr Sakshi Patel dentist",
+        "Dr Sakshi Patel kids dentist",
+        "Sakshi Patel pediatric dentist",
+        "kids dentist",
+        "pediatric dentist",
+        "pediatric dentistry",
+        "children's dentist",
+        "dentist for kids",
+        "kids dental care",
+        "child dental care",
+        "children's oral health",
+      ],
+    },
+  },
+
+  {
+    id: 29,
+
+    name: "Gugan Dental Care",
+    fullName:
+      "Gugan Dental Care: Multi-Speciality Dental Clinic in Gobichettipalayam",
+    slug: "gugan-dental-care-gobichettipalayam",
+
+    category: "Dental Clinic",
+
+    tagline:
+      "Painless and advanced multi-speciality dental care for confident smiles in Gobichettipalayam.",
+
+    description:
+      "Gugan Dental Care is a multi-speciality dental clinic in Gobichettipalayam that has been creating confident smiles since 2017. The clinic describes its care as painless and advanced and provides multi-speciality dental services. Gugan Dental Care also maintains an active digital presence focused on dental care and oral health.",
+
+    rating: 4.5,
+    reviewCount: 100,
+
+    phone: "09629996774",
+    whatsapp: "09629996774",
+
+    address: "",
+
+    city: "Gobichettipalayam",
+    area: "",
+    pincode: "",
+
+    mapCode: "",
+
+    website: "",
+
+    openingHours: {
+      monday: "Open 24 hours",
+      tuesday: "Open 24 hours",
+      wednesday: "Open 24 hours",
+      thursday: "Open 24 hours",
+      friday: "Open 24 hours",
+      saturday: "Open 24 hours",
+      sunday: "Open 24 hours",
+    },
+
+    highlights: [
+      "Multi-speciality dental clinic",
+      "Painless dental care",
+      "Advanced dental care",
+      "Creating confident smiles since 2017",
+      "Dental consultations",
+      "Gobichettipalayam location",
+    ],
+
+    doctors: [
+      {
+        name: "Doctor Name",
+        specialty: "Dentist",
+        qualification: "",
+        experience: 0,
+        image: "/doctor-2.avif",
+      },
+    ],
+
+    treatments: [
+      {
+        name: "General Dentistry",
+        slug: "general-dentistry",
+        icon: "Smile",
+        blurb:
+          "General dental consultations and treatments for maintaining healthy teeth and gums.",
+      },
+      {
+        name: "Dental Check-ups",
+        slug: "dental-check-ups",
+        icon: "Stethoscope",
+        blurb:
+          "Routine dental examinations for assessing oral health and identifying dental concerns.",
+      },
+      {
+        name: "Preventive Dentistry",
+        slug: "preventive-dentistry",
+        icon: "Shield",
+        blurb:
+          "Preventive dental care focused on maintaining oral health and reducing the risk of dental problems.",
+      },
+      {
+        name: "Multi-Speciality Dental Care",
+        slug: "multi-speciality-dental-care",
+        icon: "Activity",
+        blurb:
+          "Comprehensive dental care covering a range of oral health and dental treatment needs.",
+      },
+    ],
+
+    reviewSummary: [
+      "Highly recommended for quality dental care",
+      "Excellent doctor with great expertise",
+      "Good behavior",
+      "Dental and dermatology expertise",
+    ],
+
+    testimonials: [
+      {
+        name: "Vinay Suyal",
+        rating: 5,
+        city: "Delhi",
+        text: "Highly recommended for anyone looking for quality dental care.",
+      },
+      {
+        name: "Ravi Negi",
+        rating: 5,
+        city: "Delhi",
+        text: "Excellent doctor with great expertise in both dentistry and dermatology.",
+      },
+      {
+        name: "Rahul Rana",
+        rating: 5,
+        city: "Delhi",
+        text: "Great doctor with good behavior.",
+      },
+    ],
+
+    reviewTags: [
+      { label: "Painless Procedure", count: 4 },
+      { label: "Teeth Extraction", count: 2 },
+      { label: "Root Canal Treatment", count: 2 },
+      { label: "Scaling", count: 2 },
+    ],
+
+    features: [
+      "Multi-speciality dental clinic",
+      "Painless dental care",
+      "Advanced dental care",
+      "Established in 2017",
+      "Confident smile focused care",
+      "Dental consultations",
+    ],
+
+    images: [
+      "/hero-dental.jpg",
+      "/smiling-lady.jpg",
+      "/clinics/dr-dental-clinic-3.jpg",
+    ],
+
+    faq: [
+      {
+        q: "Where is Gugan Dental Care located?",
+        a: "Gugan Dental Care is located in Gobichettipalayam. The exact street address was not provided in the supplied profile information.",
+      },
+      {
+        q: "What type of dental clinic is Gugan Dental Care?",
+        a: "Gugan Dental Care describes itself as a multi-speciality dental clinic offering painless and advanced dental care.",
+      },
+      {
+        q: "How long has Gugan Dental Care been providing dental care?",
+        a: "According to the supplied profile, Gugan Dental Care has been creating confident smiles since 2017.",
+      },
+      {
+        q: "Does Gugan Dental Care provide painless dental treatment?",
+        a: "The clinic's profile specifically describes its services as painless and advanced dental care.",
+      },
+      {
+        q: "How can I contact Gugan Dental Care?",
+        a: "The phone number provided for Gugan Dental Care is 9629996774.",
+      },
+    ],
+
+    seo: {
+      title:
+        "Gugan Dental Care | Multi-Speciality Dental Clinic in Gobichettipalayam",
+      description:
+        "Gugan Dental Care is a multi-speciality dental clinic in Gobichettipalayam offering painless and advanced dental care and creating confident smiles since 2017.",
+      keywords: [
+        "Gugan Dental Care",
+        "Gugan Dental Care Gobichettipalayam",
+        "dentist in Gobichettipalayam",
+        "dental clinic in Gobichettipalayam",
+        "multi speciality dental clinic Gobichettipalayam",
+        "dentist near Gobichettipalayam",
+        "painless dental treatment Gobichettipalayam",
+        "advanced dental care Gobichettipalayam",
+        "best dental clinic Gobichettipalayam",
+        "dental care Gobichettipalayam",
+        "dentist Tamil Nadu",
+        "dental clinic Tamil Nadu",
       ],
     },
   },
